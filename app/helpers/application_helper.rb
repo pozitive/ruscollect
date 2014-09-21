@@ -24,7 +24,7 @@ module ApplicationHelper
     if title.present?
       content_for :title, title
     else
-      content_for?(:title) ? content_for(:title) + ' | 在俄罗斯债务追讨' : APP_CONFIG['default_title']
+      content_for?(:title) ? content_for(:title) + ' | International Collection Agency' : APP_CONFIG['default_title']
     end
   end
 

@@ -21,7 +21,7 @@
           = yield
     = content_for?(:bottom) ? yield(:bottom) : render("layouts/bottom")
     = render "layouts/footer"
-    = render "layouts/analytics"
+    -# = render "layouts/analytics"
 
     = javascript_include_tag "application", "data-turbolinks-track" => true
 
