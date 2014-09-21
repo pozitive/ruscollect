@@ -1,0 +1,480 @@
+
+---
+users:
+  columns:
+  - id
+  - email
+  - encrypted_password
+  - reset_password_token
+  - reset_password_sent_at
+  - remember_created_at
+  - sign_in_count
+  - current_sign_in_at
+  - last_sign_in_at
+  - current_sign_in_ip
+  - last_sign_in_ip
+  - created_at
+  - updated_at
+  records: 
+  - - '1'
+    - china@pozitive.biz
+    - "$2a$10$MVtD/u5d373keyk7wjiCU.kNWg4nYsaWp/EKVLx5M8IofemLKI/5u"
+    - 
+    - 
+    - 
+    - '1'
+    - '2014-09-21 22:05:11.333496'
+    - '2014-09-21 22:05:11.333496'
+    - 127.0.0.1
+    - 127.0.0.1
+    - '2014-09-21 22:05:05.761547'
+    - '2014-09-21 22:05:11.335693'
+
+---
+blogs:
+  columns:
+  - id
+  - name
+  - summary
+  - keyword
+  - content
+  - created_at
+  - updated_at
+  - slug
+  - weight
+  records: 
+  - - '1'
+    - INTERNATIONAL LEGAL AGENCY
+    - ''
+    - ''
+    - "International Legal Agency was created in 1994 to help Chinese, American, and
+      other foreign entrepreneurs collect debts in Russia. We specialize in collecting
+      debts from Russian citizens who have defaulted on loans or committed other deceitful
+      acts. \r\n\r\n\r\nPictured above are just a few of our employees who work tirelessly
+      to collect money owed to our clients due to unscrupulous business partners and
+      borrowers in Russia. Our employees come from a wide range of backgrounds and
+      cultures which help us relate to our clients and their needs.\r\n\r\n\r\nWe
+      work with a number of strategic partners to help facilitate the collection of
+      debts such as the Fund of Assistance to Veterans of the Border Troops of Russia
+      and our good friend General Litovchenko Viktor Ivanovich \r\n\r\n\r\nThe International
+      Legal Agency is a member of the Russian Union of Industrialists and Entrepreneurs
+      as well as the Chamber of Commerce of Russia.\r\n\r\n### OUR DIRECTOR\r\n\r\nVyacheslav
+      Sokolov Hadzhievich - Founder\r\n\r\nVyacheslav has worked in corporate and
+      private debt collection for over 20 years. Working in the debt collection industry
+      so long, he has cultivated a large network of people and resources to aid in
+      debt disputes, settlements, and repayment.   \r\nHe is well known not only in
+      Moscow, St. Petersberg, Kazan, and Novosibirsk; but also globally. With over
+      five years of working experience in China, Jordan, Syria, and Lebanon as well
+      as contracts with law firms in Spain, Cyrus, and New York; he is in a unique
+      position to get things done when others cannot. \r\n\r\n\r\n### COMPANY DETAILS\r\n\r\nLLC
+      \"International Collection Agency \"\r\n\r\nINN: 7725557754\r\n\r\nGB: 772501001\r\n\r\nBIN:
+      1057749666358 of 23.12.2005 in MIFNS - 46 in Moscow\r\n\r\nOKPO : 93422573\r\n\r\nNACE
+      : 65.12\r\n\r\nOKATO: 45296561000\r\n\r\nAddress: 119071, Moscow, st . Shabolovskaya
+      d.34 p.1 et.3 office 8\r\n"
+    - '2014-09-21 22:08:39.439191'
+    - '2014-09-21 22:08:39.439191'
+    - 
+    - 
+  - - '2'
+    - ENTREPRENUERS WHO HAVE LOST MONEY IN RUSSIA
+    - ''
+    - ''
+    - "The Russian Government is not very supportive of foreign debtors trying to
+      collect from Russian citizens. Because of this, you need to do everything possible
+      to help yourself by hiring a professional, experienced law firm who can help
+      you navigate the complicated bureaucracy. The International Legal Agency has
+      over twenty years of experience recovering lost money and goods from Russian
+      citizens. \r\nWe can also help prevent any problems before they arise by aiding
+      in business transactions and preparing all of the necessary documents to protect
+      your assets. Consult with a Russian legal firm before investing money with any
+      Russian companies or in any Russian based projects. Take a look below at some
+      examples of what happened to people who didn’t bother seeking professional legal
+      advice before investing. \r\n\r\n### CASE 1\r\n\r\nForeign entrepreneurs bought
+      roughly $5 million worth of goods without documents proving purchase of, or
+      taxes paid, on the products. The police were tipped off by the Russian businessmen
+      who sold the goods and they came to take all the products for failure to pay
+      taxes. The foreign entrepreneurs wrote a complaint to Prime Minister of Russia,
+      but to no avail. Because the foreign entrepreneurs did not have the correct
+      documents they were unable to get their money or their goods returned. If they
+      had hired a lawyer before investing, they would have been advised on the necessary
+      documents and their troubles could have been avoided. \r\n\r\n\r\n### CASE 2\r\n\r\nA
+      Chinese business man transferred $50,000 to a known Russian con man by the name
+      of Toll Bychkovski for the preparation and delivery of legal work permits. The
+      business man was provided with a pledge document for the work permits. The permits
+      were never delivered and the Chinese business man turned to the authorities
+      to have the money returned. Unfortunately, according to Russian law, a pledge
+      is non-refundable no matter the outcome of the transaction. If the Chinese business
+      man had consulted with a lawyer before handing over the money, he would have
+      been advised that a pledge is non-refundable and does not provide any security
+      or promise of delivery. Always consult with a lawyer before investing large
+      sums of money in any business transaction in Russia.\r\n\r\n\r\n### CASE 3\r\n\r\nA
+      foreign business man was found in Madame Zhao Lin Hotel on Panfilov Street in
+      Moscow with $1.5 million in his hotel room. The police took the money as the
+      business man did not have any documents proving ownership of the money or how
+      it was brought into the country. He was also forced by the police to sign a
+      document in Russian that he could not read. Afterwards, he hired our services
+      to recoup his money, but as he did not have any of the necessary documents,
+      we were only able to recover a portion of the money. Had he not signed the police
+      documents, he may have been able to get the necessary documents proving his
+      ownership from his accountant at a later date to recoup a greater amount or
+      all of his money. Never sign any contracts in Russia that you cannot read as
+      you may be waiving rights to your money or goods. Remember the police in Russia
+      are known for their corruption. \r\n\r\n\r\n### CASE 4\t\r\n\r\nA business woman
+      imported 500 coolers to Russia for a cost of $23,000. She then rented storage
+      space in a warehouse at the factory “Mirrors” in Moscow. She paid rent for six
+      months and went to China to conduct other business. When she returned the warehouse
+      was empty. The warehouse director denied ever having any coolers stored in the
+      warehouse. She had documents proving that she had the right to use the warehouse
+      for six months, but no documents proving coolers were ever delivered. She was
+      unable to recoup her lost goods as she did not have the correct documents. If
+      she had consulted with a Russian lawyer, they could have advised her on the
+      required documents to ensure safe storage of her goods.\r\n\r\n\r\n### CONCLUSION
+      \r\n\r\nExecute documents at every stage of a business transaction and contact
+      a licensed Russian lawyer familiar with doing business in Russia before investing
+      any large sums of money!"
+    - '2014-09-21 22:11:08.746478'
+    - '2014-09-21 22:11:08.746478'
+    - 
+    - 
+  - - '3'
+    - CONTACT US
+    - ''
+    - ''
+    - "Our legal agency is located in Moscow and has been handling debt collection
+      since 1994. We have been working with Chinese, American, and other international
+      entrepreneurs since 1996.\r\n\r\n### E-MAIL\r\n\r\nWhether you have invested
+      money with unscrupulous partners, been cheated, or have other debt problems
+      in Russia; we can help! Send us an e-mail at _______@______ and inquire about
+      our available legal services. In your e-mail try and give us a small description
+      of your problem and some background info. We will respond promptly with the
+      best advice regarding your situation. \r\nIf we can help, we will request further
+      documents and provide you with a cost estimate for our services. Please remember,
+      if you don’t have legal documents providing proof of your claim, we cannot help.
+      According to Russia’s laws for dispute settlement, if there are no documents
+      to back up your claims, you will have no legal recourse to recoup your funds.\r\n\r\nOur
+      representatives here at the International Legal Agency have been working on
+      client debt collection and disputes for 20 years. We use our vast amount of
+      experience to your advantage. Our reputation is important to us and we strive
+      to provide our clients with the best possible service. After discussing your
+      problem, we will quickly tell you whether we can help and how. \r\n\r\n\r\n###
+      BY PHONE\r\n\r\nYou can call us at -7 - 495 - 514 - 29 - 37\r\n\r\n### IN-PERSON
+      CONSULTATION\r\n\r\nAll of our clients are welcome to stop by our office in
+      Moscow on Shabolovka Street, building 34 (near the metro.) Please call before
+      coming to set up an appointment. It’s always best if you can send your documents
+      in advance so we can be well prepared to answer of all of your questions. If
+      an interpreter is necessary, let us know and we will arrange it for a cost of
+      3,000 rubles."
+    - '2014-09-21 22:12:09.837152'
+    - '2014-09-21 22:12:09.837152'
+    - 
+    - 
+  - - '4'
+    - HOW TO ORDER RETURN OF MONEY OR GOODS LOST IN RUSSIA
+    - ''
+    - ''
+    - "Business transactions in foreign countries are complicated and problems can
+      arise quickly. When dealing with honest people, a mutually satisfactory settlement
+      can often be reached, but when dealing with unscrupulous people legal recourse
+      is often necessary. Don’t let yourself be scammed. Hire the services of a reputable
+      law firm to protect you assets. \r\nIf you are having problems recovering lost
+      or stolen money in Russia we can help! Our law firm handles all forms of international
+      debt dispute, debt litigation, and debt collection. \r\n\r\nAfter contacting
+      our firm and discussing the details of your Russian debt collection problem,
+      we will determine how we can help. Once a contract is signed, we will get to
+      work reclaiming your lost money! \r\n\r\nThe ability of our law firm to recover
+      your funds lost in Russia depends upon your documents. Based on Russian debt
+      dispute laws, if you do not have valid documents showing proof of your claim
+      to the money or goods, you will not be able to take any action. \r\n\r\nWe can
+      handle the entire debt collection process for you through e-mail and over the
+      phone allowing you to avoid any costly trips to Russia. Let the International
+      Legal Agency help you recover your lost money today!\r\n\r\nNECESSARY DOCUMENTS
+      FOR RECOVERY OF LOST MONEY OR GOODS\r\n\r\n1. Receipt, sales slip, loan documents,
+      or some other legal document realted to your product or business dealings. \r\n\r\n2.
+      Documents on the Russian Company or national such as a BIN (company registration
+      number), TIN (tax identification number), or passport copy.\r\n\r\n3. A photo
+      of the Russian, while not required, can often be helpful. We can distribute
+      it through our network to help expedite the process and make it easier to find
+      the swindler. We also compile listings of fraudulent Russian businessmen to
+      help inform others. \r\n\r\nAs long as you have the necessary documents, the
+      International Legal Agency can help reclaim your lost money and goods!\r\n\r\n###
+      PAYMENT OPTIONS\r\n\r\nBank Transfer – Money can be transferred in rubles, RMB,
+      or US dollars. \r\nOur fees vary from 40,000 rubles to 1,000,000 rubles based
+      on the complexity of your case and the location of your debtor.\r\n\r\n### OUR
+      PROCESS\r\n\r\nWe begin by collecting information on your debtor and their company.
+      First we research property and financial information which can help during the
+      negotiation and settlement process of your debt collection. After our research
+      is completed, we contact your debtor and work to agree on debt settlement terms.
+      \r\n\r\nIf a mutually agreeable settlement cannot be reached, we start an appeals
+      process in the Russian courts. Our law firm will handle the court proceedings
+      to obtain a judgment against your defaulter. Once a favorable judgment has been
+      obtained, the Russian courts will aide us in reclaiming your money. If there
+      have been severe financial or other crimes, there is a possibility of raising
+      criminal charges as well. "
+    - '2014-09-21 22:15:05.125131'
+    - '2014-09-21 22:15:05.125131'
+    - 
+    - 
+  - - '5'
+    - 'WHERE WE WORK '
+    - ''
+    - ''
+    - "The International Legal Agency handles debt dispute and collection problems
+      all over Russia. We are based in Moscow, but our employees can travel to other
+      cities to handle your debt collection needs. Our fees will be adjusted to reflect
+      the cost of travel and other expenditures incurred while tracking your debtor.
+      Further details on these costs are available upon hearing the details of your
+      case.\r\n\r\n\r\n### WHERE WE CANNOT WORK\r\n\r\nIf your debtor lives or works
+      in any of the Caucasian republics of Russia such as Dagestan or Chechnya, we
+      cannot work to recover your funds. These are extremely dangerous regions with
+      no official backing to help us. \r\n\r\n\r\nWHAT WE NEED TO START WORKING FOR
+      YOU\r\n\r\n1. Copies of the following documents\r\n\r\na.  Receipt, sales slip,
+      loan documents, or some other legal document realted to your product or business
+      dealings\r\n\r\nb. Documents on the Russian Company or National such as a BIN
+      (company registration), TIN (tax identification number), or passport copy\r\n\r\n2.
+      Signed contract and power of attorney between you and International Legal Agency
+      outlining the terms of the debt collection agreement\r\n\r\n3. Payment for our
+      services"
+    - '2014-09-21 22:16:06.519383'
+    - '2014-09-21 22:16:06.519383'
+    - 
+    - 
+  - - '6'
+    - 'CRIMINAL PROCEEDINGS '
+    - ''
+    - ''
+    - "Sometimes the best route to recouping your lost money is through a joint collaboration
+      with the Russian Police Department and a licensed Russian lawyer. If the crime
+      committed has caused significant damages and can be proven, there is a possibility
+      of having the swindler jailed for his deeds. When including the police, it is
+      doubly important to ensure that you have all of the necessary documents proving
+      your claim to the lost money or goods. Without the correct paperwork, neither
+      the police nor our law firm will be able to help. Involving the police should
+      be a last resort when all other means have failed as the complicated bureaucracy
+      lengthens the time needed to reclaim your assets. \r\n\r\nEven with the help
+      of the police, it is vital that you hire a licensed lawyer who is familiar with
+      the process and Russian laws. They can help prepare all the required documents
+      and facilitate communications with the police. \r\n"
+    - '2014-09-21 22:16:44.966423'
+    - '2014-09-21 22:16:44.966423'
+    - 
+    - 
+  - - '7'
+    - KNOWN RUSSIAN CON MEN
+    - ''
+    - ''
+    - "### Cetin Horde\r\n\r\nDual citizenship - Turkey and Russia\r\n\r\nTotal damage
+      - 2.2 million U.S. dollars.\r\n\r\nMeets with foreign entrepreneurs as they
+      first arrive in Moscow and encourages them to invest in a joint business with
+      the promise of great reward. Later he will bankrupt the business, hide most
+      of the money, and flee from the gullible partners. He generally works in the
+      Lublin area of Moscow. If you have suffered from the actions of Cetin horde,
+      \ please contact the International Law Agency , LLC .\r\n\r\n### Ivan Kazimirovich
+      - Retired Colonel of the Soviet Army\r\n\r\nDual citizenship - Russia and Latvia\r\n\r\nTotal
+      damage - 760,000 U.S. dollars.\r\n\r\nPromised a Chinese company to provide
+      them with rubber from Chemical Works mountains. Once the money was appropriated,
+      the rubber was never sent. He is currently in hiding in Latvia in the village
+      of Bulduru. Lack of Latvian law enforcement support has prevented our company
+      from bringing him back to Russia to pay for his crimes. If you have suffered
+      from the action of powder Ivan Kazimirovich, please contact the International
+      Law Agency , LLC .\r\n\r\n### Jian Zhen BLUE - Russian name - Dean Zina \r\n\r\nCitizenship
+      - China\r\n\r\nTotal damage - 300,000 U.S. dollars.\r\n\r\nMeets with foreign
+      entrepreneurs as they first arrive in Moscow and encourages them to invest in
+      a joint business with the promise of great reward. Later he will bankrupt the
+      business, hide most of the money, and flee from the gullible partners. Currently,
+      he is in hiding from our company in China. If you have suffered from the actions
+      of Jian Zhen BLUE, please contact the International Law Agency , LLC . \r\n\r\n###
+      Bychkovskaya Anatoly A.\r\n\r\nCitizenship - Russia and Belarus\r\n\r\nTotal
+      damage - 175 000 U.S. dollars .\r\n\r\nFor the past 15 years, he worked at the
+      Cherkizovsky market in Moscow helping Chinese entrepreneurs obtain work permits.
+      He collects money from the Chinese business men and either does not deliver
+      the permits or falsifies documents. As the documents are not real work permits,
+      they are not valid and he disappears with the money. If you have suffered from
+      the actions Bychkovskaya Anatoly Andreyevich, please contact the International
+      Law Agency , LLC .\r\n\r\n\r\n###Chen Daysin\r\n\r\nNickname - \"Jura Chinese\"\r\n\r\nCitizenship
+      – RF\r\n\r\nTotal damage – 1,240,000 U.S. dollars\r\nIn the seventies, Chen
+      escaped from China and fled into the USSR where he renounced his Chinese nationality.
+      Working in conjunction with his wife Lyudmila Pikovskaya, he convinces foreign
+      business men to invest in businesses where he then funnels out the money. He
+      owns a house in Moscow and is currently hiding in the U.S. If you have suffered
+      from the actions Chen Daysinya or his wife Lyudmila Pikovskaya, please contact
+      the International Law Agency, LLC ."
+    - '2014-09-21 22:18:10.437158'
+    - '2014-09-21 22:18:10.437158'
+    - 
+    - 
+  - - '8'
+    - POWER OF ATTORNEY
+    - ''
+    - ''
+    - "\r\nWe provide our services under a Power of Attorney agreement.\r\n\r\nWhen
+      processing the agreement, the Russian notary will ask three questions.\r\n1.
+      What is the length of Power of Attorney Contract? (Maximum three years)\r\n2.
+      Does the Power of Attorney include the right of substitution? \r\n3. Does the
+      Power of Attorney include the right to receive and transfer money or property
+      without additional consent?\r\nPower of Attorney to represent the interests
+      of clients abroad is handled differently. Following is the procedure for a trustee
+      to represent client’s interest abroad.\r\n\r\nFIRST ORDER – As long as Russia
+      and the country in question have signed a treaty on legal assistance, everything
+      is very simple and straightforward. After signing the authorization form from
+      our Russian notary, our staff will enter the country in question to represent
+      your interests. Our employees will then translate the authorization form into
+      the local language where it will once again be notarized. With the Power of
+      Attorney issued by a Russian notary and a local notary in the country of question,
+      we can begin to work on collecting your debt abroad. This prevents you from
+      having to travel to another country yourself to work on collecting the debt.
+      \r\n\r\nSECOND ORDER – If there is no legal treaty between Russia and the country
+      in question, we will still need a Power of Attorney form notarized in Russia.
+      We will then work on obtaining a Power of Attorney for registration in foreign
+      embassies based on the following:\r\n\r\n1. Valid passport \r\n2. Translated
+      and notarized copy of Russian Power of Attorney\r\n3. Tax identification number
+      (TIN) - please bring the original Certificate of Tax Registration\r\n4. Presence
+      of a certified translator during execution of he contract (generally at the
+      embassy.)\r\nSample of the Power of Attorney Contract\r\nPower of Attorney to
+      represent the\r\nENTITY ABROAD\r\nThis power of attorney is a legal entity in
+      the Request Form and signed by the director of the company. \r\nLEGAL ENTITY
+      FORM\r\n================================================== ===========\r\nOOO
+      \" RUSSIAN SOUVENIR \"\r\nBIN INN 77345542 771234567\r\nr / c 98765430000123
+      in \"Bank of Moscow - St. Petersburg »\r\nJur. Address - 123456 ul. Novy Arbat
+      d.1 of.2\r\nThe actual address - 132654 ul. Old Arbat d.2 of.1\r\nTel. 925 523
+      34 Fax . 678 43 56 E-mail - russuv@mail.mos\r\n==================================================
+      ==========\r\nPOWER OF ATTORNEY\r\nRussia , Moscow \"__\" ____________ 201_\r\n\r\nOOO
+      \" RUSSIAN SOUVENIR \" ( BIN 771 234 567 ) on behalf of General Manager Zhao
+      Baonen , acting under the Charter , hereinafter referred to as - \" Principal
+      \" ( passport data and address registration director and not of ) this power
+      of attorney authorizes a Russian citizen Vasiliy N. Petrova , passport number
+      55 45 123 456 issued by the Central Internal Affairs Directorate of Moskvy.___05.12
+      .. 2011_g . subdivision code 324 , registered address : Ul . Marshal Zhukov,
+      etc. Q1 . 2 , (no need to specify the company that employs this Attorney - only
+      his passport details and registration address ) hereinafter referred to as -
+      \" Attorney \" to perform on behalf of the Principal , at his own expense and
+      in its interests, all measures stipulated by the current legislation of action,
+      rights, obligations, and formalities connected with the representation of the
+      Principal and interest on the entire territory of the Russian Federation and
+      the Republic of Georgia.\r\n\r\nIn arbitration courts, courts of general jurisdiction,
+      the arbitration courts of any jurisdiction in enforcement proceedings, in law
+      enforcement and prosecutors with all the rights which are given to the Principal
+      by the current legislation of the Russian Federation and the Republic of Georgia,
+      as a plaintiff, defendant, the applicant, interested person, third person, the
+      victim, the claimant, the debtor to the creditor. ( An applicant and respondent
+      )\r\n\r\nThe same rights to represent the interests of the Principal shall be
+      submitted to the Attorney and the territory of the People's Republic of China,
+      if they are not inconsistent with the law of the People's Republic.\r\n\r\nTo
+      implement all of the above attorneys, this power of attorney granted in full
+      and all necessary for the required user rights as the Principal himself, including
+      (but not in any way be limited to ) the right to:\r\n• Sign the statement of
+      claim and review (objections) to the complaint, filing them in court, as well
+      as the signing and submitting of any other documents (petitions, applications,
+      complaints, explanations, etc.);\r\n• Signing the request for interim measures
+      and presentation of it to the court, as well as signing and filing a court application
+      for cancellation of provisional measures;\r\n• Payment on behalf of and at the
+      expense of the Principal of the state fee;\r\n• Submission of the dispute to
+      arbitration;\r\n• Filing a counterclaim, a full or partial waiver of claims,
+      change their size, confession, change the subject or cause of action, clarification
+      (modification, addition) of the claim, the claim;\r\n• Settlement agreement
+      and an agreement on the actual circumstances;\r\n• The signing of appeal and
+      cassation complaints, applications for review of judicial acts in the supervision
+      and on newly discovered evidence;\r\n• Appeal against any judicial act or other
+      act which may appeal in accordance with the current legislation of the Russian
+      Federation;\r\n• Perform all actions related to the enforcement proceedings,
+      including the right to receive any execution, presentation and review of the
+      executive document, obtaining property or money awarded, the appeal of actions
+      of a bailiff;\r\n• Familiarization with the cases in which, one way or another,
+      involved Principal, including the right to make statements, copies of materials
+      on these matters and any other activities not prohibited by the legislation
+      of the Russian Federation;\r\n• Receipt of the decision, decision, a writ of
+      execution, writ, letters rogatory and any other acts, somehow affecting the
+      rights, responsibilities, freedoms, and legitimate interests of the Principal;\r\n•
+      Apply to law enforcement agencies to initiate criminal proceedings and submission
+      of applications and complaints to prosecutors and supervisory bodies related
+      to the appeal of the law enforcement agencies;\r\n• Addressing issues including
+      signing, presenting and reclaiming the necessary documents in government, including
+      law enforcement, tax, and other bodies or organizations;\r\n• Engaging in any
+      other legal and factual actions that representative deems necessary for submission,
+      implementation and protection of the rights, responsibilities, freedoms and
+      legitimate interests of the Principal in the aforementioned Courts, agencies,
+      and organizations, in such amount and with such a degree of care, what might
+      have been expected from the Principal.\r\n\r\nThe power of attorney is granted
+      for one year.\r\nPower of attorney is not entrust it contains powers to third
+      parties.\r\nWith the right to receive and transfer money and property by the
+      actions for which the real and granted power of attorney .\r\nGeneral Director
+      of \" RUSSIAN SOUVENIR \"\r\n                                                                                                        /
+      ZHAO Baonen /\r\n\r\nUse our experience to solve your problems."
+    - '2014-09-21 22:19:37.242173'
+    - '2014-09-21 22:19:37.242173'
+    - 
+    - 
+  - - '9'
+    - 'HELPFUL TIPS FOR DOING BUSINESS IN RUSSIA '
+    - ''
+    - ''
+    - "We’ve put together a reference of useful tips to help guide you while getting
+      your business venture started in Russia. \r\n\r\n### RUSSIAN OFFICIALS\r\n\r\nDealing
+      with Russian Officials is difficult due to the high level of corruption. Your
+      troubles may even start while you are trying to get a visa before you have ever
+      entered the country. If you haven’t done all of the paperwork correctly, and
+      sometimes even if you have, you may have trouble getting the visa or crossing
+      the border once you have one. \r\nYou’ll also have to meet with many Russian
+      officials while setting up your business and deal with the Federal Migration
+      Service as well. Your best bet is to work through an intermediary familiar with
+      the process and can facilitate everything while keeping costs to a minimum.
+      Russian officials have been known to demand ludicrous bribes from foreign business
+      men establishing a company.\r\n\r\n\r\n### RUSSIAN CUSTOMS\r\n\r\nRussian customs
+      are very strict with planes arriving from China and will thoroughly inspect
+      passengers and their bags. Do not try and hide and illicit goods or try and
+      bring any items trough undeclared. We have many clients who have been detained
+      by customs and come to us for help in sorting everything out.\r\n\r\nExamples:\r\n\r\nA
+      Chinese woman was caught trying to smuggle amber inside her panties. She was
+      fined 3 million rubles.\r\n\r\nA Chinese student tried to smuggle mobile phones
+      under his t-shirt and was fined 1.5 million rubles.\r\nOnce caught trying to
+      smuggle undocumented goods into the country, there is nothing we can do to help
+      and, if convicted or fined, you will not be allowed into Russia for three years.\r\n\r\n\r\n###
+      FMS - Federal Migration Service\r\n\r\nThe Federal Migration Service can be
+      a big problem for foreigners entering the country or trying to establish a business.
+      As long as all of your documents are in order, you shouldn’t have any problems,
+      but the FMS is known for its corruption and they earn a lot of money by imposing
+      trumped up fines on foreign owned companies or companies employing foreigners.
+      \ \r\nFor more information on dealing with FMS check out our site www.anti-fms.com\r\n\r\n\r\n###
+      RUSSIAN POLICE\r\n\r\nForeigners are often treated with suspicion by the Russian
+      police and usually disrespect as well. If you find yourself in a situation where
+      you need the assistance of the Russian police, we recommend you use the service
+      of a licensed Russian lawyer to help. With the support of a Russian lawyer,
+      the Russian police are more likely to treat you fairly and help you with any
+      claims without trying to ask for excessive bribes. \r\n\r\nIf you need to the
+      aid of the Russian police, contact us first and we will help. \r\n\r\n### STSI
+      - Russian Traffic Police or DPS – Road Inspection Service\r\n\r\nIf driving
+      yourself around Russia, it is inevitable that you will be dealing with the STSI
+      or DPS at some point. The best thing you can do is ensure that all of your documents
+      are driving permits are in order. Even with all of the required paperwork, they
+      will make up violations to extort money out of you in the form of small bribes.
+      \r\n\r\n\r\n### RUSSIAN COURTS\r\n\r\nAs long as you have your documents in
+      order, the Russian courts can be a very strong ally, but they are also very
+      bureaucratic and you will need the support of a Russian lawyer familiar with
+      the process. With the aid of a Russian lawyer and the correct documents proving
+      your claims, there is a very good chance the Russian courts will side in your
+      favor.  \r\n\r\n\r\n### RUSSIAN CITIZENS COME FROM A VARIETY NATIONALITIES\r\n\r\nRussia
+      is home to a variety of cultures and ethnicities who speak a number of different
+      languages. We have compiled a small reference of some of the nationalities you
+      might deal with while doing business in Russia.  \r\n\r\n### ARMENIAN –\r\n\r\nThe
+      Armenian people have a very interesting culture and are very outgoing. Many
+      of them are involved in the job market and vendors in the Russian markets. Unfortunately,
+      they have a reputation for cheating foreign business men. This does not apply
+      to the educated Armenians such as doctors and artists, but rather the poorer
+      or uneducated. There is also an Armenian mafia you need to be wary of while
+      doing business with them in Russia, but unlike many mafias, they are not very
+      aggressive or violent. Your biggest risk when doing business with Armenians
+      is fraud.   \r\n\r\n### AZERBAIJANIS –\r\n\r\nAzerbaijanis are very similar
+      to Turkish people in language and customs, but have an outwardly oriental appearance.
+      outwardly look like oriental people. They are very friendly, enterprising folk
+      who can usually be found working in the markets or driving taxis. As with most
+      nationalities in Russia, there is an Azeri mafia, but surprisingly they often
+      conduct business fairly as long as you are cautious in your dealings.\r\n\r\n###
+      CHECHENS –\r\n\r\nChechens have a very bad reputation in Russia as one of the
+      most dangerous nationalities to deal with. They have committed many brutal crimes
+      and the Chechnyan government is not supportive of businessmen trying to recoup
+      their lost money from Chechen con men. You would do well to avoid doing any
+      business with Chechens while in Russia or its neighboring countries.  \r\n\r\n\r\n###
+      WELCOME TO RUSSIA !\r\n( the country that can not understand none )"
+    - '2014-09-21 22:22:02.334475'
+    - '2014-09-21 22:22:02.334475'
+    - 
+    - 
