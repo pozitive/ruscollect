@@ -6,15 +6,15 @@
         - @message.errors.full_messages.each do |msg|
           %li= msg
   .field
-    = f.label :name, '姓名'
+    = f.label :name, 'Name'
     = f.text_field :name, {required: '', placeholder: '姓名'}
   .field
-    = f.label :email, '电子邮件'
+    = f.label :email, 'Email'
     = f.text_field :email, {required: '', placeholder: "yourname@example.biz"}
   .field
-    = f.label :phone, '电话'
+    = f.label :phone, 'Phone'
     = f.text_field :phone, {placeholder: "18688883692"}
   .field
-    = f.text_area :note, {required: '', placeholder: "你的留言"}
+    = f.text_area :note, {required: '', placeholder: "Message"}
   .actions
     = f.submit 'Send', class: 'button success radius'
