@@ -1,4 +1,4 @@
-Zhaiwuzhuitao::Application.routes.draw do
+Ruscollect::Application.routes.draw do
 
   resources :messages
 
