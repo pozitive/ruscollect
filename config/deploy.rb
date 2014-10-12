@@ -56,12 +56,19 @@ set(:executable_config_files, %w(
 ))
 
 namespace :deploy do
+  desc 'Start and stop application'
+  %w[start stop].each do |command|
+    desc "#{command} unicorn server"
+    task command  do
+      on roles(:app) do
+        execute "/etc/init.d/unicorn_ruscollect #{command}"
+      end
+    end
+  end
 
-  desc 'Restart application'
-  task :restart do
-    on roles(:app), in: :sequence, wait: 5 do
-      # Your restart mechanism here, for example:
-      # execute :touch, release_path.join('tmp/restart.txt')
+  task :graceful_stop do
+    on roles(:app) do
+      execute "lsof /tmp/unicorn.ruscollect.sock | sed -n '2p' | awk '{print $2}' | xargs kill -QUIT"
     end
   end
 
@@ -80,15 +87,10 @@ namespace :deploy do
     end
   end
 
-  after :publishing, :restart
-
   after :restart, :clear_cache do
     on roles(:web), in: :groups, limit: 3, wait: 10 do
-      # Here we can do anything such as:
-      # within release_path do
-      #   execute :rake, 'cache:clear'
-      # end
+      execute "lsof /tmp/unicorn.ruscollect.sock | sed -n '2p' | awk '{print $2}' | xargs kill -QUIT"
+      execute "/etc/init.d/unicorn_ruscollect start"
     end
   end
-
 end
