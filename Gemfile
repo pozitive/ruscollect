@@ -1,5 +1,5 @@
-source 'https://rubygems.org'
-ruby "2.1.0"
+source 'http://rubygems.org'
+
 gem 'rails', '4.0.3'
 gem 'pg'
 gem 'sass-rails', '~> 4.0.0'
@@ -46,7 +46,7 @@ end
 
 group :development, :test do
   gem 'rspec-rails' #unit testing
-  gem 'debugger'  # Use debugger
+  # gem 'debugger'  # Use debugger
   gem 'colored'
 end
 
